@@ -222,8 +222,13 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-archives
   jekyll-feed (~> 0.6)
+  jekyll-gist
+  jekyll-paginate
+  jekyll-sitemap
   jekyll-whiteglass
+  jemoji
   tzinfo-data
 
 BUNDLED WITH
