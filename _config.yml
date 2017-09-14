@@ -61,7 +61,6 @@ exclude:
   - log
   - node_modules
   - package.json
-  - Rakefile
   - README
   - README.md
   - tmp
