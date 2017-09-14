@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://blog.unsettling.co.uk//2017/09/12/welcome-to-jekyll/</loc>
-<lastmod>2017-09-12T16:30:25+01:00</lastmod>
+<loc>http://blog.unsettling.co.uk//2017/09/12/welcome-to-jekyll/</loc>
+<lastmod>2017-09-12T15:30:25+00:00</lastmod>
 </url>
 <url>
-<loc>https://blog.unsettling.co.uk//404/</loc>
+<loc>http://blog.unsettling.co.uk//404/</loc>
 </url>
 <url>
-<loc>https://blog.unsettling.co.uk//about/</loc>
+<loc>http://blog.unsettling.co.uk//about/</loc>
 </url>
 <url>
-<loc>https://blog.unsettling.co.uk//archives/</loc>
+<loc>http://blog.unsettling.co.uk//archives/</loc>
 </url>
 <url>
-<loc>https://blog.unsettling.co.uk//</loc>
+<loc>http://blog.unsettling.co.uk//</loc>
+</url>
+<url>
+<loc>http://blog.unsettling.co.uk//categories/jekyll/</loc>
+</url>
+<url>
+<loc>http://blog.unsettling.co.uk//categories/update/</loc>
 </url>
 </urlset>
