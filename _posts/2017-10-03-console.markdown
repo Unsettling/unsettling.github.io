@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "dotnet console app in Docker container"
+date:   2017-09-14 16:30:25 +0100
+categories: dotnet
+---
+Keep-alive for dotnet console apps in Docker containers.
