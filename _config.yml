@@ -19,7 +19,7 @@ email: info+blog@unsettling.co.uk
 description: > # this means to ignore newlines until "baseurl:"
   Unsettling Limited, Edinburgh, UK. Technical blog.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://www.unsettling.co.uk/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.unsettling.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 repository: "Unsettling/unsettling.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 twitter_username: unsettling
 github_username:  boggin
