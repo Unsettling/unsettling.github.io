@@ -3,10 +3,10 @@
   <generator uri="http://jekyllrb.com" version="3.5.2">Jekyll</generator>
   
   
-  <link href="http://blog.unsettling.co.uk//feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://blog.unsettling.co.uk//" rel="alternate" type="text/html" />
-  <updated>2018-09-25T15:11:55+00:00</updated>
-  <id>http://blog.unsettling.co.uk///</id>
+  <link href="https://www.unsettling.co.uk/blog/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://www.unsettling.co.uk/blog/" rel="alternate" type="text/html" />
+  <updated>2018-09-26T10:51:25+00:00</updated>
+  <id>https://www.unsettling.co.uk/blog//</id>
 
   
     <title type="html">Unsettling</title>
@@ -25,11 +25,11 @@
       
       <title type="html">dotnet console app in Docker container</title>
       
-      <link href="http://blog.unsettling.co.uk//2017/09/14/console/" rel="alternate" type="text/html" title="dotnet console app in Docker container" />
+      <link href="https://www.unsettling.co.uk/blog/2017/09/14/console/" rel="alternate" type="text/html" title="dotnet console app in Docker container" />
       <published>2017-09-14T15:30:25+00:00</published>
       <updated>2017-09-14T15:30:25+00:00</updated>
-      <id>http://blog.unsettling.co.uk//2017/09/14/console</id>
-      <content type="html" xml:base="http://blog.unsettling.co.uk//2017/09/14/console/">&lt;p&gt;Keep-alive for dotnet console apps in Docker containers.&lt;/p&gt;</content>
+      <id>https://www.unsettling.co.uk/blog/2017/09/14/console</id>
+      <content type="html" xml:base="https://www.unsettling.co.uk/blog/2017/09/14/console/">&lt;p&gt;Keep-alive for dotnet console apps in Docker containers.&lt;/p&gt;</content>
 
       
       
@@ -59,11 +59,11 @@
       
       <title type="html">Hello from Unsettling Limited</title>
       
-      <link href="http://blog.unsettling.co.uk//2017/09/14/hello/" rel="alternate" type="text/html" title="Hello from Unsettling Limited" />
+      <link href="https://www.unsettling.co.uk/blog/2017/09/14/hello/" rel="alternate" type="text/html" title="Hello from Unsettling Limited" />
       <published>2017-09-14T15:30:25+00:00</published>
       <updated>2017-09-14T15:30:25+00:00</updated>
-      <id>http://blog.unsettling.co.uk//2017/09/14/hello</id>
-      <content type="html" xml:base="http://blog.unsettling.co.uk//2017/09/14/hello/">&lt;p&gt;Writing code isn’t really too hard. Finding out the tiny little piece of syntax 
+      <id>https://www.unsettling.co.uk/blog/2017/09/14/hello</id>
+      <content type="html" xml:base="https://www.unsettling.co.uk/blog/2017/09/14/hello/">&lt;p&gt;Writing code isn’t really too hard. Finding out the tiny little piece of syntax 
 or the magic word that’s been holding you up for most of the day is really hard. 
 It’s that act of intuition and perserverance that marks out the lot of the daily 
 software developer.&lt;/p&gt;

@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://blog.unsettling.co.uk//2017/09/14/hello/</loc>
+<loc>https://www.unsettling.co.uk/blog/2017/09/14/hello/</loc>
 <lastmod>2017-09-14T15:30:25+00:00</lastmod>
 </url>
 <url>
-<loc>http://blog.unsettling.co.uk//2017/09/14/console/</loc>
+<loc>https://www.unsettling.co.uk/blog/2017/09/14/console/</loc>
 <lastmod>2017-09-14T15:30:25+00:00</lastmod>
 </url>
 <url>
-<loc>http://blog.unsettling.co.uk//404/</loc>
+<loc>https://www.unsettling.co.uk/blog/404/</loc>
 </url>
 <url>
-<loc>http://blog.unsettling.co.uk//about/</loc>
+<loc>https://www.unsettling.co.uk/blog/about/</loc>
 </url>
 <url>
-<loc>http://blog.unsettling.co.uk//archives/</loc>
+<loc>https://www.unsettling.co.uk/blog/archives/</loc>
 </url>
 <url>
-<loc>http://blog.unsettling.co.uk//</loc>
+<loc>https://www.unsettling.co.uk/blog/</loc>
 </url>
 <url>
-<loc>http://blog.unsettling.co.uk//categories/hello/</loc>
+<loc>https://www.unsettling.co.uk/blog/categories/hello/</loc>
 </url>
 <url>
-<loc>http://blog.unsettling.co.uk//categories/dotnet/</loc>
+<loc>https://www.unsettling.co.uk/blog/categories/dotnet/</loc>
 </url>
 </urlset>
