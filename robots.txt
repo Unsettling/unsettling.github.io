@@ -1,1 +1,1 @@
-Sitemap: https://www.unsettling.co.uk/blog/sitemap.xml
+Sitemap: https://www.unsettling.co.uk/sitemap.xml
