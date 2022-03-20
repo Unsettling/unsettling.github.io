@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="183.32539mm"
+   height="188.39668mm"
+   viewBox="0 0 183.32539 188.39668"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="unsettling-logo.svg"
+   inkscape:export-filename="C:\Users\richard\Documents\unsettling-logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="44.547727"
+     inkscape:cy="262.33662"
+     inkscape:window-width="1920"
+     inkscape:window-height="2126"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2"
+     showborder="false" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:inline"
+     transform="translate(-23.708933,9.8911209)"
+     sodipodi:insensitive="true">
+    <g
+       id="g1651"
+       inkscape:export-filename="C:\Users\richard\g1651.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="fill:#ff6600;fill-rule:evenodd;stroke-width:0.275599"
+         id="path44"
+         ry="66.881943"
+         rx="66.850517"
+         cy="56.990822"
+         cx="140.18381" />
+      <path
+         style="fill:#ff6600"
+         id="path194"
+         sodipodi:type="arc"
+         sodipodi:cx="53.262356"
+         sodipodi:cy="148.51019"
+         sodipodi:rx="29.553423"
+         sodipodi:ry="29.995367"
+         sodipodi:start="0"
+         sodipodi:end="6.2693655"
+         sodipodi:arc-type="arc"
+         d="M 82.815779,148.51019 A 29.553423,29.995367 0 0 1 53.364461,178.50538 29.553423,29.995367 0 0 1 23.709638,148.71746 29.553423,29.995367 0 0 1 52.956044,118.51644 29.553423,29.995367 0 0 1 82.812957,148.09568"
+         sodipodi:open="true" />
+      <ellipse
+         style="fill:#ff6600;stroke-width:0.308114"
+         id="path334"
+         cx="110.77222"
+         cy="153.74495"
+         rx="12.391318"
+         ry="12.325173" />
+    </g>
+  </g>
+</svg>
